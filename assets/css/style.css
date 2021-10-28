@@ -769,7 +769,16 @@ section {
   color: #cda45e;
 }
 .why-us .box h4 {
+  font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
+  font-weight: 600;
+  padding: 0;
+  margin: 20px 0;
+  color: rgba(255, 255, 255, 0.8);
+}
+.why-us .box h5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
   font-weight: 600;
   padding: 0;
   margin: 20px 0;
@@ -777,12 +786,12 @@ section {
 }
 .why-us .box p {
   color: #aaaaaa;
-  font-size: 15px;
+  font-size: 12px;
   margin: 0;
   padding: 0;
 }
 .why-us .box:hover {
-  background: #cda45e;
+  /* background: #cda45e; */
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
