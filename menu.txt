@@ -1,0 +1,192 @@
+##Chillax chill 
+Lassi
+Cold Drink Glass
+Water (Packaged) 
+Masala Cold Drink
+Plain Dahi
+Mix Raita
+Salad
+Kachumber Salad
+Papad Fry
+Papad Dry
+Papad Masala
+Peanut Masala
+Boiled Egg (2 pcs)
+Omelette Plain
+Masala Omelette
+Tea 
+Coffee
+
+## Pakoda
+Veg Pakoda
+Paneer Pakoda
+Egg Pakoda
+Chicken Pakoda with Bone
+Onion Cheetah Pakoda
+Chicken Lever Pot Fry
+
+##Chilli Veg
+Baby Corn Crispy
+Baby Corn Chilli
+Paneer Chilli (D)
+Paneer Chilli (G)
+Veg Manchurian (D)
+Veg Manchurian (G)
+Mashroom Chilli (D)
+Mashroom Chilli (G)
+Chilli Garlic Potato
+Corn Salt & Paneer
+Paneer Salt & Paneer
+Baby Corn Salt & Paneer
+Paneer Dragon
+Paneer Manchurian
+Veg Chilli (D)
+Veg Chilli (G)
+
+## Chilli Non Veg
+Chicken Chilli Bone (D)
+Chicken Chilli Bone (G)
+Chicken Chilli Boneless (D)
+Chicken Chilli Boneless (G)
+Chicken Salt & Paneer
+Chicken Lolipop
+Mustard Chicken
+Chicken Lemon
+Chicken Conzi
+Chicken Crispy
+Chicken Fry Dry
+Chicken Dragon
+
+##soup
+Tomato Soup
+Veg Soup
+Veg Sweet Corn Soup
+Veg Hot & Sour Soup
+Mushroom Soup
+Veg Manchow
+Veg Coriander Soup
+Chicken Soup
+Chicken Sweet Corn Soup
+Chicken Manchow
+Chicken Hot & Sour Soup
+Chicken Mushroom Soup
+
+## Noodle
+Veg Chowmin
+Veg Mix Chowmin
+Veg Hakka Noodle
+Chicken Chowmin
+Chicken Mix Chowmin
+Chicken Hakka Noodle
+Egg Chowmin
+Veg Sehezwan Noodle
+
+## Curry Veg
+Aloo Bhujia
+Aloo Dum
+Mix Veg
+Veg Chatpata
+Veg Jalfrezi
+Veg Kadahi
+Paneer Butter Masala
+Paneer Punjabi
+Paneer Tikka Masala
+Paneer Chatpata
+Paneer Keema
+Paneer Do Pyaza
+Paneer Jalfrezi
+Paneer Mushroom Masala
+Mushroom Kadahi
+Mushroom Paneer Taz
+Mushroom Do Pyaza
+Mushroom Masala
+Mushroom Butter Masala
+Mushroom Chatpata
+Mushroom Dehati
+Dal Plain
+Dal Tarka
+Dal Butter Fry
+Dal Punjabi
+Dal Makhani
+Dal Fry
+Dal Handi
+
+##Tandoori Veg
+Paneer Tikka
+Paneer Tikka Kalimirch
+Veg Hara Bhara Kabab
+Mustard Paneer
+
+##Tandoori Non Veg
+Chicken Tikka
+Chicken Kali Mirch
+Chicken Hara Bhara Kabab
+Chicken Tandoori (Full)
+Chicken Tandoori (Half)
+Chicken Seek Kabab
+Chicken Leg Kabab (2 pcs)
+Chicken Mustard Kabab (8 pcs)
+Chicken Reshmi Kabab
+Chicken Achari Kabab
+
+##Curry Non Veg
+Chicken Tikka Lababdar
+Chicken Butter Masala (Full)
+Chicken Butter Masala (Half)
+Chicken Patiyala 
+Chicken Kadahi
+Chicken Do Pyaza
+Chicken Masala
+Chicken Dehati (Broiler) Full
+Chicken Dehati (Broiler) Half
+Chicken Punjabi
+Chicken Chatpata
+Chicken Tikka Butter Masala
+Chicken Curry (1 Leg pc)
+Chicken Curry (4 pcs) Bone
+Chicken Handi
+
+
+## Naan Roti
+Tandoori Roti
+Butter Roti
+Plain Naan
+Butter Naan
+Masala Kulcha
+Butter Kulcha
+Laccha Paratha
+Garlic Naan
+
+##Rice
+Chicken Biryani With Raita
+Veg Biryani
+Chicken Fried Rice
+Veg Fried Rice
+Jeera Rice
+Veg Rice
+Kashmiri Pulao
+Hyderabadi Biryani
+Chicken Pulao
+Veg Pulao
+Plain Rice
+
+##Boom Veg
+Veg Angara
+Veg Banjara
+Veg Nawabi
+Veg Kalyani
+Paneer Bullet
+Paneer Pasanda
+Paneer Kalyani
+Veg Diwani Handi
+
+## Boom Non Veg
+Chicken Angara
+Chicken Banjara
+Chicken Nawabi
+Chicken Kalyani
+Chicken Bullet
+Chicken Pasanda
+Chicken Diwani Handi
+
+

@@ -1,8 +1,5 @@
 /**
-* Template Name: Restaurantly - v3.6.0
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Author: raushan
 */
 (function() {
   "use strict";
@@ -182,9 +179,13 @@
         layoutMode: 'fitRows'
       });
 
-      let menuFilters = select('#menu-flters li', true);
+      let menuFilters = select('#menu-filters li', true);
 
-      on('click', '#menu-flters li', function(e) {
+      menuIsotope.arrange({
+        filter: menuFilters[0].getAttribute('data-filter')
+      });
+
+      on('click', '#menu-filters li', function(e) {
         e.preventDefault();
         menuFilters.forEach(function(el) {
           el.classList.remove('filter-active');
